@@ -8,6 +8,20 @@ In addition to the standard workflow, the guide documents common installation an
 
 ---
 
+## System Configuration
+ 
+| Component | Version |
+|---|---|
+| OS | Ubuntu 22.04.5 LTS |
+| CPU | AMD Ryzen 5 3500U |
+| RAM | 6 GB |
+| Python | 3.10 |
+| Docker | Installed |
+| Git | Installed |
+| OpenLane | OpenLane 2 (new CLI, `--design-dir` based) |
+
+---
+
 ## 1. Install Nix
 
 OpenLane 2 uses **Nix** to manage all tool dependencies (Yosys, OpenROAD, Magic, Netgen, etc.) so you don't have to install each one manually.
