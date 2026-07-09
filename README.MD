@@ -6,19 +6,6 @@ This guide is intended for complete beginners who have just installed Ubuntu and
 
 ---
 
-# System Configuration
-
-| Component | Version |
-|------------|---------|
-| OS | Ubuntu 22.04.5 LTS |
-| CPU | AMD Ryzen 5 3500U |
-| RAM | 6 GB |
-| Python | 3.10 |
-| Docker | Installed |
-| Git | Installed |
-
----
-
 # Install Nix
 
 OpenLane 2 officially recommends using **Nix** to manage all tool dependencies.
