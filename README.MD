@@ -426,6 +426,4 @@ openlane --design-dir . config.json
 
 ---
 
-## Author
 
-**Ebinesh K**
