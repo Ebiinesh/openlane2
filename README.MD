@@ -13,8 +13,6 @@ In addition to the standard workflow, the guide documents common installation an
 | Component | Version |
 |---|---|
 | OS | Ubuntu 22.04.5 LTS |
-| CPU | AMD Ryzen 5 3500U |
-| RAM | 6 GB |
 | Python | 3.10 |
 | Docker | Installed |
 | Git | Installed |
