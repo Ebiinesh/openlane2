@@ -416,19 +416,6 @@ openlane --design-dir . config.json
 
 ---
 
-## Next Projects (Same Repo, Same Setup)
-
-- [ ] Inverter
-- [ ] NAND gate
-- [ ] XOR gate (standalone)
-- [x] Half Adder
-- [ ] Full Adder
-- [ ] Ripple Carry Adder
-- [ ] 4-bit ALU
-- [ ] RISC-V core
-
----
-
 ## References
 
 - https://github.com/efabless/openlane2
