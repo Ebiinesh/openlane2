@@ -547,9 +547,3 @@ With synthesis understood at the command level, the next stages to dig into the 
 - [ ] **Signoff** — timing (STA), DRC, LVS, and final GDS export
 
 ---
-
-## Author
-
-**Ebinesh K**
-Final-year ECE (VLSI Design & Technology), Chennai Institute of Technology.
-Learning ASIC Physical Design using OpenLane 2, OpenROAD, and Sky130 — incoming ASIC Physical Design Engineer at Vicharak.
