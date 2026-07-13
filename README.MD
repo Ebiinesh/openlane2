@@ -1,4 +1,4 @@
-# OpenLane 2 + Sky130 — RTL to GDS (Half Adder)
+# OpenLane 2 + Sky130 — RTL to GDS
 
 # OpenLane 2 Installation and ASIC Design Flow Guide
 
