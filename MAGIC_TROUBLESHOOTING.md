@@ -337,8 +337,3 @@ By testing each piece separately (`magic` alone → `magic -T ...` → `magic -r
 
 ---
 
-## Author
-
-**Ebinesh K**
-Final-year ECE (VLSI Design & Technology), Chennai Institute of Technology.
-Learning ASIC Physical Design using OpenLane 2, OpenROAD, Magic, and Sky130 — incoming ASIC Physical Design Engineer at Vicharak.
